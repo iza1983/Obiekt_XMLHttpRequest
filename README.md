@@ -1,1 +1,1 @@
-# kodilla-11.4 - Obiekt XMLHttpRequest
+# Obiekt XMLHttpRequest
